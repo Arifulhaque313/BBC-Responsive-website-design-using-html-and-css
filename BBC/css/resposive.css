@@ -1,0 +1,45 @@
+@media screen and (max-width:960px){
+    .navbar{
+        width: 100%;
+        padding-left:0px;
+        padding-right: 0px;
+    }
+
+    .welcome{
+        flex-direction: column;
+        padding:10px 30px;
+
+    }
+    .date p{
+        text-align: left;
+    }
+     
+    .hot-news{
+        flex-direction:column;
+        padding: 10px;
+        margin: 10px 10px;
+    }
+
+    .left-hot-news{
+        margin:20px 10px ;
+    }
+    .news-title{
+        padding: 10px ;
+        margin: 10px;
+    }
+    .news{
+        flex-direction: column;
+        padding: 10px;
+        margin: 10px;
+    }
+
+    .footer{
+        
+        
+        padding-left: 30px;
+        padding-right: 20px;
+    }
+}
+
+
+
